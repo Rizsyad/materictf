@@ -2,5 +2,5 @@
 2. setelah masukan perintah no. 1 masukan perintah: aaa 
 3. setelah no.2 dilakukan, kita mencoba melihat function2 di program tersebut melakukan perintah : afl
 4. setlah itu, melakukan pemlihan function: dengan perintah : s (nama_function) ex. s sym.main
-5. habis itu, kita melihat cara kerja sebuah program tersubut dengan cara: pdf
-6. jika ingin melihat alur kerja dengan table masukan perintah: VV jika ingin keluar ketik saja q
+5. habis itu, kelihat alur kerja dengan  Visual Mode ita melihat  cara kerja sebuah program tersubut dengan cara: pdf
+6. jika ingin melihat alur kerja dengan  Graph Mode  masukan perintah: VV jika ingin keluar ketik saja q
