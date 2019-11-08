@@ -29,3 +29,7 @@ lakukan disammble saja
 2. RUN
 
 lakukan running program saja
+
+3. Basic rev 1
+
+lakukan disammble saja
