@@ -8,7 +8,6 @@ Flag = ASGama{th4t_is_why_you_n33d_to_sanitiz3_inputs}
 
 
 
-
 Crypto
 
 1. Base64: QVNHYW1he1QzcmI0ZWtfMXNfVGgzX0Izc3R9
@@ -32,6 +31,12 @@ Crypto
  cara untuk menyeselesaikannya adalah bruteforce key: https://www.dcode.fr/caesar-cipher
  
  Flag = ASGama{C4es4r_ch1p3er}
+ 
+ 4. Reverse
+ 
+ Melakukan Text Reverse Biasa 
+ 
+ Flag = ASGama{cum4_r3v3rs3_str1ng_b1asa}
   
 
 Reverse Engineering
