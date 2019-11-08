@@ -37,6 +37,14 @@ Crypto
  Melakukan Text Reverse Biasa 
  
  Flag = ASGama{cum4_r3v3rs3_str1ng_b1asa}
+ 
+ 5. Satu Nol
+ 
+ 0b0100000101010011010001110110000101101101011000010111101100110101011101000111001000110001011011100110011101011111001100100101111101100010001100010110111000110100011100100111100101111101
+ 
+ Melakukan decode binary to text, setalah mencoba decode ada keslahan yaitu ada tipe string b, saya mencoba menghpusnya walah dapet
+ 
+ Flag = ASGama{5tr1ng_2_b1n4ry}
   
 
 Reverse Engineering
