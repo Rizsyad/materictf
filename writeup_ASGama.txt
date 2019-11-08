@@ -10,7 +10,7 @@ Flag = ASGama{th4t_is_why_you_n33d_to_sanitiz3_inputs}
 
 Crypto
 
-1. Base64: QVNHYW1he1QzcmI0ZWtfMXNfVGgzX0Izc3R9
+1. Base64
 
   in linux: echo -n QVNHYW1he1QzcmI0ZWtfMXNfVGgzX0Izc3R9 | base64 -d
   in mac: echo -n QVNHYW1he1QzcmI0ZWtfMXNfVGgzX0Izc3R9 | base64 -D
@@ -53,6 +53,8 @@ Crypto
  https://www.dcode.fr/affine-cipher
  
  Flag = ASGama{AFFINE_CIPHER_IS_CLASSIC_CIPHER_TOO}
+ 
+
  
   
   
