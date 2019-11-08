@@ -18,3 +18,9 @@ Crypto
  kita disuruh untuk mendecode sebuah pesan tersebut dengan key yang kita tidak diketahui, 
  cara untuk menyeselesaikannya adalah bruteforce key: https://www.dcode.fr/caesar-cipher
   
+
+Reverse Engineering
+
+1. Trace On
+
+lakukan disammble saja
