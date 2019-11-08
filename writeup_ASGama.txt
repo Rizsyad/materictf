@@ -1,3 +1,13 @@
+Web
+
+1. Basic Injection
+
+kita melakukan disuruh melakuan SQL Injection masukan inputan = '=''or' dan liat hasilnya
+
+Flag = ASGama{th4t_is_why_you_n33d_to_sanitiz3_inputs}
+
+
+
 
 Crypto
 
@@ -28,7 +38,7 @@ Reverse Engineering
 
 1. Trace On
 
-lakukan disammble saja
+lakukan disammble saja, saya memakai radare2
 
 
 2. RUN
