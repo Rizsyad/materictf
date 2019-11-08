@@ -12,3 +12,9 @@ Crypto
   ada sebuah file mirip mp3, tugas kita untuk membaca pesan tersebut dengan cara, 
   memakai website orang lain: https://morsecode.scphillips.com/labs/audio-decoder-adaptive/
   
+  
+ 3. Caesar: ASGama{C4es4r_ch1p3er}
+ 
+ kita disuruh untuk mendecode sebuah pesan tersebut dengan key yang kita tidak diketahui, 
+ cara untuk menyeselesaikannya adalah bruteforce key: https://www.dcode.fr/caesar-cipher
+  
