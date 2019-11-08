@@ -1,0 +1,14 @@
+
+Crypto
+
+1. Base64: QVNHYW1he1QzcmI0ZWtfMXNfVGgzX0Izc3R9
+
+  in linux: echo -n QVNHYW1he1QzcmI0ZWtfMXNfVGgzX0Izc3R9 | base64 -d
+  in mac: echo -n QVNHYW1he1QzcmI0ZWtfMXNfVGgzX0Izc3R9 | base64 -D
+  
+  
+ 2. Samuel Morse
+ 
+  ada sebuah file mirip mp3, tugas kita untuk membaca pesan tersebut dengan cara, 
+  memakai website orang lain: https://morsecode.scphillips.com/labs/audio-decoder-adaptive/
+  
