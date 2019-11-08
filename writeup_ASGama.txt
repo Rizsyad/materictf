@@ -47,7 +47,12 @@ Crypto
  Flag = ASGama{5tr1ng_2_b1n4ry}
  
  
+ 6.Affine cipher
  
+ kita disuruh mealkukan mengdecode sebuah pesan, deketahui B=4 A=? kita disuruh untuk menebak key A, dengan cara nge brute
+ https://www.dcode.fr/affine-cipher
+ 
+ Flag = ASGama{AFFINE_CIPHER_IS_CLASSIC_CIPHER_TOO}
  
   
   
