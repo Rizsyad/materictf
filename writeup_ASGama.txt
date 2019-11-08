@@ -45,13 +45,30 @@ Crypto
  Melakukan decode binary to text, setalah mencoba decode ada keslahan yaitu ada tipe string b, saya mencoba menghpusnya walah dapet
  
  Flag = ASGama{5tr1ng_2_b1n4ry}
+ 
+ 
+ 
+ 
   
+  
+Forensic
+
+1. Pemanasan Dolo
+
+kita pertama mengeck file tersebut memakai binwalk, setelah dicek ternyata file tersebut file gambar extensi .png
+dan saya mencoba meng rename file tersebut, dan dapet lah flag tersebut
+
+
+
+
 
 Reverse Engineering
 
 1. Trace On
 
 lakukan disammble saja, saya memakai radare2
+
+Flag = ASGama{Ju5t_di54ss3mbl3_me}
 
 
 2. RUN
