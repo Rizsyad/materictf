@@ -6,17 +6,22 @@ Crypto
   in linux: echo -n QVNHYW1he1QzcmI0ZWtfMXNfVGgzX0Izc3R9 | base64 -d
   in mac: echo -n QVNHYW1he1QzcmI0ZWtfMXNfVGgzX0Izc3R9 | base64 -D
   
+  Flag = ASGama{T3rb4ek_1s_Th3_B3st}
   
  2. Samuel Morse
  
   ada sebuah file mirip mp3, tugas kita untuk membaca pesan tersebut dengan cara, 
   memakai website orang lain: https://morsecode.scphillips.com/labs/audio-decoder-adaptive/
   
+  Flag = ASGama{M03RESEC0D3}
+
   
  3. Caesar: ASGama{C4es4r_ch1p3er}
  
  kita disuruh untuk mendecode sebuah pesan tersebut dengan key yang kita tidak diketahui, 
  cara untuk menyeselesaikannya adalah bruteforce key: https://www.dcode.fr/caesar-cipher
+ 
+ Flag = ASGama{C4es4r_ch1p3er}
   
 
 Reverse Engineering
@@ -30,6 +35,18 @@ lakukan disammble saja
 
 lakukan running program saja
 
+Flag = ASGama{Ju5t_ruN_1t}
+
+
 3. Basic rev 1
 
-lakukan disammble saja
+lakukan disammble saja, saya memakai radare2
+
+Flag = ASGAMA{S1mpl3_5trIng_C0mp4re}
+
+
+4. Basic rev 2
+
+lakukan disammble saja, saya memakai radare2
+
+Flag = ASGama{COmp4r1n6_s0m3_chAr}
