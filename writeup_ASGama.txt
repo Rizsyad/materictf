@@ -24,3 +24,8 @@ Reverse Engineering
 1. Trace On
 
 lakukan disammble saja
+
+
+2. RUN
+
+lakukan running program saja
