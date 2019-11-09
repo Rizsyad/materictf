@@ -54,6 +54,12 @@ Crypto
  
  Flag = ASGama{AFFINE_CIPHER_IS_CLASSIC_CIPHER_TOO}
  
+ 7. MD5 Base32
+ 
+ disoal ada suatu file yang dikasih, saya mencoba mendownload ada sebuah pesan di encrypt, seusai judulnya MD5 dan Base32 saya mencoba men dencrypt pesan tersebut dan dapetlah flag tersebut 
+ 
+ Flag = ASGama{hash_md5_crack}
+ 
 
  
   
