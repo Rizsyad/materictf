@@ -1,0 +1,16 @@
+from Crypto.Util.number import inverse #wajib dipanggil
+
+untuk mencari N adalah N = p*q
+untuk mecari phi adalah phi = (p-1)*(q-1)
+untuk mencari d adalah d = inverse(e, phi) #dipython
+untuk mencari m adalah m = pow(c,d,n) #dipython
+
+
+1. telah ditentukan n,e,c (defalut) kita akan mencari p,q,phi, dan m
+2, jika p atau q belum diketahui maka masukan rumus q = p/N atau p = q/N
+3. jika keduanya belum deketahui masukan nilai N ke http://factordb.com/ 
+4. setelah masukan n di website tersebut yang p dibagian paling awal dan q paling akhir
+5. setelah dimasukan nilai tersebut kita mencari phi, masukan p dan q ke rumus phi
+6. setelah sudah mendapatkan nilai phi masukan rumus d
+7. setelah d sudah dapat kita harus mendapatkan message tersebut di d dengan cara masukan rumus m
+8. dan mealkukan print m tersebut dengan cara print(hex(m)[2:-1]).decode('hex')
