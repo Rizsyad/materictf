@@ -8,4 +8,4 @@ kalo untu mengganti style bisa pencet p
 
 7. jika ingin merubah isi patch tersebut dengan pilih: aaw
 8. dan pilih address sikondisi atau untuk mau di edit: s (addressnya)
-9. dan masukan perintah wa jmp (nilai si atribut)
+9. dan masukan perintah wa jmp (nilai si atribut) / wa nop (nilai si atribut)
