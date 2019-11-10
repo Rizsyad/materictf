@@ -4,3 +4,4 @@ https://ctf.codepwnda.id/login?next=%2Fchallenges%3F
 http://202.162.197.83:9999/
 https://ringzer0ctf.com/challenges
 https://www.root-me.org/?lang=en
+https://ctf.komatik.wg.ugm.ac.id/login?next=%2Fchallenges%3F
