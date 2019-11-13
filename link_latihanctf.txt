@@ -8,3 +8,4 @@ https://ctf.komatik.wg.ugm.ac.id/login?next=%2Fchallenges%3F
 http://35.200.51.48/narotama-ctf/login.php
 http://ctf.muhammadihsan.id/
 http://52.230.64.162/
+https://ctf.cybersecuritytrunojoyo.team
