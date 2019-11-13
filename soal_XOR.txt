@@ -1,0 +1,9 @@
+def encode(text):
+    enc = ''
+    for i in range(len(text)):
+        enc += chr(ord(text[i]) ^ 0x69)
+    return enc.encode('hex') 
+
+print(encode("HIYAINIFLAGBUKANYA"))
+
+# cipher = 3d1b1c0706030610062a3d2f121d00070e0e08053611591b06070e360d0c070e080736010c115d14
