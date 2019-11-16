@@ -1,6 +1,7 @@
 # Kriptografi
 
 ## Pengertian Kriptografi
+
 ```text
 Kriptografi adalah ilmu mengenai teknik enkripsi dimana 
 “naskah asli” (plaintext) diacak menggunakan suatu kunci 
@@ -52,7 +53,7 @@ pemrosesan data oleh algoritma simetrik dan kemudahan transfer kunci menggunakan
 ```text
 Kriptografi sering kali keluar disoal ctf dibelahan dunia, dan saya
 ingin membahas bagimana cara untuk pesan yang di enkripsi menjadi 
-plantext.
+plantext hanya basic.
 ```
 
 ### 1. RSA
