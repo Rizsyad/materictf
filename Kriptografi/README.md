@@ -34,9 +34,16 @@ pengiriman/terciptanya suatu informasi oleh yang mengirimkan/membuat.
 ## Jenis-jenis Kriptografi
 
 ```text
-1. Kriptografi Simetris adalah : Kode Hill atau lebih dikenal dengan Hill cipher merupakan salah satu algoritma kriptografi kunci simetris dan merupakan salah satu kripto polyalphabetic. Hill cipher diciptakan oleh Lester S. Hill pada tahun 1929.
-2. Kriptografi Asimetris adalah : Algoritma asimetris, sering juga disebut dengan algoritma kunci publik atausandi kunci publik, menggunakan dua jenis kunci, yaitu kunci publik (public key) dan kunci rahasia (secret key). Kunci publik merupakan kunci yang digunakan untuk mengenkripsi pesan. Sedangkan kunci rahasia digunakan untuk mendekripsi pesan.
-3. Kriptografi Hibrid adalah : . Kriptografi hibrida sering dipakai karena memanfaatkan keunggulan kecepatan pemrosesan data oleh algoritma simetrik dan kemudahan transfer kunci menggunakan algoritma asimetrik.
+1. Kriptografi Simetris adalah : Kode Hill atau lebih dikenal dengan Hill cipher merupakan salah satu algoritma kriptografi kunci simetris 
+dan merupakan salah satu kripto polyalphabetic. Hill cipher diciptakan oleh Lester S. Hill pada tahun 1929.
+
+2. Kriptografi Asimetris adalah : Algoritma asimetris, sering juga disebut dengan algoritma 
+kunci publik atausandi kunci publik, menggunakan dua jenis kunci, yaitu kunci publik (public key) 
+dan kunci rahasia (secret key). Kunci publik merupakan kunci yang digunakan untuk mengenkripsi pesan. 
+Sedangkan kunci rahasia digunakan untuk mendekripsi pesan.
+
+3. Kriptografi Hibrid adalah : Kriptografi hibrida sering dipakai karena memanfaatkan keunggulan kecepatan 
+pemrosesan data oleh algoritma simetrik dan kemudahan transfer kunci menggunakan algoritma asimetrik.
 ```
 
 
