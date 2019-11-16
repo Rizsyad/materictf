@@ -56,25 +56,19 @@ ingin membahas bagimana cara untuk pesan yang di enkripsi menjadi
 plantext.
 ```
 
-### 1. ROT
-
 ```text
-ROT atau disebut juga rotate, cipher ini adalah mengrotate atau mengrotasi
-sebuah pesan terbaca (plaintext) menjadi pesan tidak terbaca/sulit terbaca (ciphertext).
-tapi ini gampang untuk diubah menjadi plaintext, dengan cara menggunakan 
-bantuan dari website orang yaitu: https://www.dcode.fr/
+untuk diubah menjadi plaintext, dengan cara menggunakan 
+bantuan dari website orang lain yaitu:
 ```
-### 2. Caesar Cipher
-### 3. Morse
-### 4. XOR
-### 5. RSA
-### 6. AES
 
-```text
-yang saya sampaikan adalah hanya basic saja, jika anda tahu 
-basic Kriptografi itu seperti apa anda pasti bisa menjawab soal 
-ctf tersebut. 
-```
+### https://www.dcode.fr/
+
+untuk jenis kriptografi ROT, Caesar Cipher, XOR, morse dan masih banyak lagi
+
+### https://morsecode.scphillips.com/labs/audio-decoder-adaptive/
+
+untuk jenis kriptografi morse tipe audio
+
 
 ## Daftar Pustaka
 
