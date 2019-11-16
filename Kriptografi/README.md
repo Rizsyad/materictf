@@ -55,7 +55,10 @@ ingin membahas bagimana cara untuk pesan yang di enkripsi menjadi
 plantext.
 ```
 
-1. RSA
+### 1. RSA
+### 2. Caesar Cipher
+### 3. Morse
+### 4. XOR
 
 
 ## Daftar Pustaka
