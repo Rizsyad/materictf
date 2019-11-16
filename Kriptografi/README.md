@@ -53,14 +53,28 @@ pemrosesan data oleh algoritma simetrik dan kemudahan transfer kunci menggunakan
 ```text
 Kriptografi sering kali keluar disoal ctf dibelahan dunia, dan saya
 ingin membahas bagimana cara untuk pesan yang di enkripsi menjadi 
-plantext hanya basic.
+plantext.
 ```
 
-### 1. RSA
+### 1. ROT
+
+```text
+ROT atau disebut juga rotate, cipher ini adalah mengrotate atau mengrotasi
+sebuah pesan terbaca (plaintext) menjadi pesan tidak terbaca/sulit terbaca (ciphertext).
+tapi ini gampang untuk diubah menjadi plaintext, dengan cara menggunakan 
+bantuan dari website orang yaitu: https://www.dcode.fr/
+```
 ### 2. Caesar Cipher
 ### 3. Morse
 ### 4. XOR
+### 5. RSA
+### 6. AES
 
+```text
+yang saya sampaikan adalah hanya basic saja, jika anda tahu 
+basic Kriptografi itu seperti apa anda pasti bisa menjawab soal 
+ctf tersebut. 
+```
 
 ## Daftar Pustaka
 
