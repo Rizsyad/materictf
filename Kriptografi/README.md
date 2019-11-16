@@ -47,7 +47,15 @@ Sedangkan kunci rahasia digunakan untuk mendekripsi pesan.
 pemrosesan data oleh algoritma simetrik dan kemudahan transfer kunci menggunakan algoritma asimetrik.
 ```
 
+## Pembahasan
 
+```text
+Kriptografi sering kali keluar disoal ctf dibelahan dunia, dan saya
+ingin membahas bagimana cara untuk pesan yang di enkripsi menjadi 
+plantext.
+```
+
+1. RSA
 
 
 ## Daftar Pustaka
