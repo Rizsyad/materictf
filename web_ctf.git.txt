@@ -1,0 +1,7 @@
+1. Download dulu file .git suatu website dengan cara: https://github.com/kost/dvcs-ripper
+printah: rip-git.pl -o /my/previously/made/dir -v -u http://www.example.com/.git/
+
+2. lalu di extrack dengan tool: https://github.com/internetwache/GitTools
+dengan printah: ./extractor.sh /tmp/mygitrepo /tmp/mygitrepodump
+
+done
