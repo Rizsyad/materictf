@@ -1,1 +1,2 @@
 sudo apt-get install hexcurse
+sudo apt-get install bless
