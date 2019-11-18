@@ -69,7 +69,7 @@ untuk jenis kriptografi ROT, Caesar Cipher, XOR, morse dan masih banyak lagi
 
 untuk jenis kriptografi morse tipe audio
 
-http://spammimic.com/decode.cgi
+### http://spammimic.com/decode.cgi
 
 untuk kriptografi spam, baru dengerkan? sama gw juga
 
