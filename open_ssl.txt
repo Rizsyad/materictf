@@ -1,0 +1,10 @@
+#!/bin/bash
+
+ciphers=$(openssl enc -ciphers)
+for line in $ciphers; do
+	output=$(openssl enc $line -d -in encrypted.txt -out un_encrypted.txt -p narotama)
+	if [ -z $output ]; then
+		echo $x
+		break
+	fi
+done
