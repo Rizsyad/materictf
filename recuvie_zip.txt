@@ -1,3 +1,5 @@
 find . -name "*.zip" | while read filename; do unzip -o -d "`dirname "$filename"`" "$filename"; done;
 
+//harus unzip 1 file dulu
+
 while true; do find -name "*$i*" -exec 7z e -y {} \;; find -name "*$i*" -exec 7z e -y {} \;; find -name "*$i*" -exec 7z e -y {} \;;i=$((i+1)); done
