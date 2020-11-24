@@ -1,1 +1,3 @@
 cat my.signature | sed -e 's/.*= \([^ ]\+\)$/\1/' | xxd -r -p > binary.signature
+//rev signature
+< file.gnp xxd -p -c1 | tac | xxd -p -r > file.png
