@@ -1,2 +1,4 @@
 https://github.com/bkimminich/juice-shop
 https://www.kangwriteup.me/
+https://lukeslytalker.pythonanywhere.com/jsteg/scan
+https://archive.org/web/
