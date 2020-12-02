@@ -1,5 +1,5 @@
 from Crypto.Util.number import inverse #wajib dipanggil
-
+https://pypi.org/project/factordb-pycli/ #atau pakai lib ini untuk mencari factordb
 
 untuk mencari N adalah N = p*q
 untuk mecari phi adalah phi = (p-1)*(q-1)
